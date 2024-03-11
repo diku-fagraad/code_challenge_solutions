@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPRNumber", "CPRNumber\CPRNumber.csproj", "{FF22A50A-ABE2-4722-9011-4ECAA6EFA267}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecretMessage", "SecretMessage\SecretMessage.csproj", "{44126B06-277A-40F7-86B5-D15B7D427B36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
