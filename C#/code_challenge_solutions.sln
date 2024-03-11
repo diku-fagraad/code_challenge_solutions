@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPRNumber", "CPRNumber\CPRN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecretMessage", "SecretMessage\SecretMessage.csproj", "{44126B06-277A-40F7-86B5-D15B7D427B36}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UTF8", "UTF8\UTF8.csproj", "{FE9FE261-D14C-49EE-B01E-96E18278029B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
